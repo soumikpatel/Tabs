@@ -58,9 +58,9 @@ namespace Tabs
         {
             var client = new HttpClient();
 
-            client.DefaultRequestHeaders.Add("Prediction-Key", "4dabd48577884b78807382911176a251");
+            client.DefaultRequestHeaders.Add("Prediction-Key", "a51ac8a57d4e4345ab0a48947a4a90ac");
 
-            string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/a1076d3c-0b25-4b97-9f2e-cccd44c29dd1/image?iterationId=2f977096-f812-4df1-900b-8980ded81c91";
+            string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/4da1555c-14ca-4aaf-af01-d6e1e97e5fa6/image?iterationId=7bc76035-3825-4643-917e-98f9d9f79b71";
 
             HttpResponseMessage response;
 
