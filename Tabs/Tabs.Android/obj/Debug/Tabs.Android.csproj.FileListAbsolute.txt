@@ -193,15 +193,3 @@ D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\res\values\styles.xml
 D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\res\xml\file_paths.xml
 D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\R.cs.flag
 D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\uploadflags.txt
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\bin\Debug\Tabs.Android.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.Abstractions.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.Android.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Tabs.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-D:\Programming\Github\Tabs\Tabs\Tabs.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

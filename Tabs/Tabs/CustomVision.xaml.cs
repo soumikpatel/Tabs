@@ -58,6 +58,8 @@ namespace Tabs
         {
             var client = new HttpClient();
 
+
+            //My CustomVision AI key
             client.DefaultRequestHeaders.Add("Prediction-Key", "4dabd48577884b78807382911176a251");
 
             string url = "https://southcentralus.api.cognitive.microsoft.com/customvision/v1.0/Prediction/a1076d3c-0b25-4b97-9f2e-cccd44c29dd1/image?iterationId=2f977096-f812-4df1-900b-8980ded81c91";
